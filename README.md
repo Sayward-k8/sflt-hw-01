@@ -8,7 +8,13 @@
   * На проверку отправьте получившуюся схему в формате pkt и скриншот, где виден процесс настройки маршрутизатора.
 
 # Решение 1
+
 <details> 
+
+![alt text](https://github.com/Sayward-k8/sflt-hw-01/blob/main/img/1.png)
+![alt text](https://github.com/Sayward-k8/sflt-hw-01/blob/main/img/1.2.png)
+
+[Cхема](https://github.com/Sayward-k8/sflt-hw-01/blob/main/img/hsrp_hw-igonin.pkt)
 
 </details>  
 
