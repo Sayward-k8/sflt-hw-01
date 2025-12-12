@@ -10,9 +10,21 @@
 # Решение 1
 
 <details> 
-
+Если я обрываю линк между Router 1 и Switch 1, все отрабатывает и отображается корректно 
+ 
+![alt text](https://github.com/Sayward-k8/sflt-hw-01/blob/main/img/1.0.png)
 ![alt text](https://github.com/Sayward-k8/sflt-hw-01/blob/main/img/1.png)
 ![alt text](https://github.com/Sayward-k8/sflt-hw-01/blob/main/img/1.2.png)
+
+Если я обрываю линк между Router 1 и Switch 0, все отрабатывает, но отображается некорректно(точнее нигде не отображается track для группы 1)
+![alt text](https://github.com/Sayward-k8/sflt-hw-01/blob/main/img/1.3.png)
+![alt text](https://github.com/Sayward-k8/sflt-hw-01/blob/main/img/1.4.png)
+![alt text](https://github.com/Sayward-k8/sflt-hw-01/blob/main/img/1.5.png)
+
+Если я обрываю линк между Router 2 и Switch 0, то пинг не проходит, так как у Router 1, приоритет ниже чем у Router 2, поэтому я сделал приоритет выше. Всё работает, но не отображается...
+![alt text](https://github.com/Sayward-k8/sflt-hw-01/blob/main/img/1.6.png)
+![alt text](https://github.com/Sayward-k8/sflt-hw-01/blob/main/img/1.7.png)
+![alt text](https://github.com/Sayward-k8/sflt-hw-01/blob/main/img/1.8.png)
 
 [Cхема](https://github.com/Sayward-k8/sflt-hw-01/blob/main/img/hsrp_hw-igonin.pkt)
 
