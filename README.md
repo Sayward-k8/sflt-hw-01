@@ -46,5 +46,14 @@
 # Решение 2
 <details> 
 
+[check_nginx.sh](https://github.com/Sayward-k8/sflt-hw-01/blob/main/img/check_nginx.sh)
+[keepalived-backup.conf](https://github.com/Sayward-k8/sflt-hw-01/blob/main/img/keepalived-backup.conf)
+[keepalived-master.conf](https://github.com/Sayward-k8/sflt-hw-01/blob/main/img/keepalived-master.conf)
+
+![alt text](https://github.com/Sayward-k8/sflt-hw-01/blob/main/img/2.png)
+![alt text](https://github.com/Sayward-k8/sflt-hw-01/blob/main/img/2.1.png)
+![alt text](https://github.com/Sayward-k8/sflt-hw-01/blob/main/img/2.3.png)
+![alt text](https://github.com/Sayward-k8/sflt-hw-01/blob/main/img/2.4.png)
+
 </details> 
 
